@@ -1,33 +1,38 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-### Olá eu sou a Ciuverlânia Andrade
+# 👋 Olá, eu sou a Ciuverlânia Andrade  
 
+💻 Desenvolvedora Front-End em formação  
+📚 Estudando **Análise e Desenvolvimento de Sistemas**  
+🎯 Aprendendo **HTML, CSS, JavaScript e Java**  
+🌱 Sempre buscando evoluir e contribuir em projetos de tecnologia  
+✨ Pronouns: **ela/dela**
 
-- 🔭 Atualmente não estou trabalhando
-- 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando HTML, CSS, Java, Javascript
-- 😄 Pronouns: ela/dela
+---
 
+## 🚀 Tecnologias que estou aprendendo:
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
+---
 
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
+---
 
-<br>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ciuverlania&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&bg_color=0d1117" alt="Ciuverlania Andrade github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciuverlania&layout=compact&hide_border=true&title_color=FF69B4&text_color=ff91a4&bg_color=0d1117" />
-  </div>
- 
- <div align="center">
-<a href = "mailto:ciuverlaniandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ciuverlania-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
-<br> 
-
-## Estou Aprendendo:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40" />
+## 🌐 Contatos
+<div>
+  <a href="mailto:SEUEMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+</div>
 
 
           
